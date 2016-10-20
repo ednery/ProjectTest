@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1476898099908.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD2A30CF",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1476898099908,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "j6dsqa3na6",
+        "caption" : "drones",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=drones&cache_key=j6dsqa3na6",
+        "displayedObservations" : 214,
+        "environment" : "",
+        "object" : "drones",
+        "totalObservations" : 214,
+        "variables" : 68
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
